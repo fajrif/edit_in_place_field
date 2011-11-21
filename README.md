@@ -26,7 +26,7 @@ The editor works by PUTting the updated value to the server and GETting the upda
 
 ##Usage of edit_in_place_field plugin
 
-	**<%= edit_in_place_field :object, :field, { OPTIONS } %>**
+	<%= edit_in_place_field :object, :field, { OPTIONS } %>
 
 Params:
 
