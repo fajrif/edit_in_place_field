@@ -132,7 +132,7 @@ example :
 	<%= javascript_include_tag 'jquery.edit_in_place_field.js' %>
 	<script type="text/javascript">
 	  $(document).ready(function() {
-	    /* Activating Best In Place */
+	    /* Activating EditInPlaceField */
 	    jQuery(".edit_in_place_field").edit_in_place_field()
 	  });
 	</script>
