@@ -129,7 +129,7 @@ To be able to use the script the following block must be added as well inside `a
 example :
 
 	<%= javascript_include_tag 'jquery.purr.js' %>
-	<%= javascript_include_tag 'edit_in_place_field.js' %>
+	<%= javascript_include_tag 'jquery.edit_in_place_field.js' %>
 	<script type="text/javascript">
 	  $(document).ready(function() {
 	    /* Activating Best In Place */
